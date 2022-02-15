@@ -13,6 +13,7 @@ For Ubuntu Users:
 
  ### Test Cases:
  ### 1. SearchTest - automated test to open www.google.com and search "youtube"
+ ### 2. Capture_Screenshot - Automated test to open a website, take the screenshot ans save it locally.
 
 
 ## Folder Structure
